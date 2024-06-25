@@ -1,2 +1,2 @@
-import opencv
+import cv2
 print("Hello, world!")
